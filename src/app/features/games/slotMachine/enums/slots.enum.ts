@@ -1,0 +1,18 @@
+export enum Slots {
+    CARDS = 1,
+    QUESTION,
+    CHERRY,
+    PLUM,
+    ORANGE,
+    SLOT_MACHINE,
+    DICE,
+    EMERALD,
+    SLOT,
+    GRAPE,
+    HORSESHOE,
+    CLOVER,
+    WATERMELON,
+    DOLLAR,
+    BAR,
+    SEVEN,
+}
